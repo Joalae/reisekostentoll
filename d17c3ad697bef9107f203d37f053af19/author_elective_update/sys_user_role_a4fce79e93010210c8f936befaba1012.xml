@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>RT - Admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 14:32:06</sys_created_on>
+        <sys_id>a4fce79e93010210c8f936befaba1012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RT - Admin</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_update_name>sys_user_role_a4fce79e93010210c8f936befaba1012</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 14:32:06</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</application>
+        <file_path/>
+        <instance_id>0c6200f21b9a3d1439a54089bd4bcbcb</instance_id>
+        <instance_name>dev207440</instance_name>
+        <name>sys_user_role_a4fce79e93010210c8f936befaba1012</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>RT - Admin</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 14:32:06</sys_created_on><sys_id>a4fce79e93010210c8f936befaba1012</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RT - Admin</sys_name><sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package><sys_policy/><sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope><sys_update_name>sys_user_role_a4fce79e93010210c8f936befaba1012</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 14:32:06</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1510245829</payload_hash>
+        <record_name>RT - Admin</record_name>
+        <reverted_from/>
+        <source>08d67ca43cb1311068bcf327dfe37fbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 14:32:06</sys_created_on>
+        <sys_id>69fcaf1e93010210c8f936befaba10c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e66937ffd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 14:32:06</sys_updated_on>
+        <type>Role</type>
+        <update_guid>adfcaf1e1e0102100866fbd0600767c3</update_guid>
+        <update_guid_history>adfcaf1e1e0102100866fbd0600767c3:1510245829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="RT - Admin">2b9d27de93010210c8f936befaba1097</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 14:34:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>3b367234ebd54e0e9fb466240a1cda99</sys_id>
+        <sys_metadata>a4fce79e93010210c8f936befaba1012</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RT - Admin</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_scope_delete display_value="">5a6dc31175a5483085449b0fdcdb7dd1</sys_scope_delete>
+        <sys_update_name>sys_user_role_a4fce79e93010210c8f936befaba1012</sys_update_name>
+        <sys_update_version display_value="sys_user_role_a4fce79e93010210c8f936befaba1012">69fcaf1e93010210c8f936befaba10c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 14:34:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
